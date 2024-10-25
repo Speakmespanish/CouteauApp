@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ViewMobile37</string>
+    <string name="appxml">Bienvenid@ a mi APP</string>
+
+
+    <string name="genderpredict">Predecir genero</string>
+    <string name="Predict">Predecir genero</string>
+    <string name="InputName">Ingresa un nombre</string>
+
+    <string name="agepredict">Predecir edad</string>
+
+    <string name="universitiescountry">Ver universidades por pais (Ingles)</string>
+
+    <string name="currentweather">Ver clima actual</string>
+
+    <string name="about">Acerca de mi</string>
+</resources>
